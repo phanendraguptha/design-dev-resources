@@ -467,6 +467,12 @@
       "categorie": "CSS Utilities"
     },
     {
+      "name": "CSSeffects",
+      "link": "https://emilkowalski.github.io/css-effects-snippets/",
+      "description": "A collection of CSS effects. Click on the animation to copy the css and use it anywhere",
+      "categorie": "CSS Utilities"
+    },
+    {
       "name": "Paaatterns",
       "link": "https://products.ls.graphics/paaatterns/index.html",
       "description": "Free collection of beautiful patterns for all vector formats. For Sketch, Figma, XD, Illustrator. In png and svg",
@@ -489,6 +495,44 @@
       "link": "https://bansal.io/pattern-css",
       "description": "CSS only library to fill your empty background with beautiful patterns",
       "categorie": "CSS Utilities"
+    }
+  ],
+  "JS Libraries": [
+    {
+      "name": "Clipboard JS",
+      "link": "https://clipboardjs.com/",
+      "description": "A modern approach to copy text to clipboard. No Flash. No frameworks. Just 3kb gzipped",
+      "categorie": "JS Libraries"
+    },
+    {
+      "name": "Popper JS",
+      "link": "https://popper.js.org/",
+      "description": "Popper.js is a positioning engine, its purpose is to calculate the position of an element to make it possible to position it near a given reference element",
+      "categorie": "JS Libraries"
+    },
+    {
+      "name": "Typed JS",
+      "link": "https://mattboldt.com/demos/typed-js/",
+      "description": "Typed.js is a library that types. Enter in any string, and watch it type at the speed you've set, backspace what it's typed",
+      "categorie": "JS Libraries"
+    },
+    {
+      "name": "Anime JS",
+      "link": "https://animejs.com/",
+      "description": "Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects",
+      "categorie": "JS Libraries"
+    },
+    {
+      "name": "Slick JS",
+      "link": "https://kenwheeler.github.io/slick/",
+      "description": "slick is a responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping & much more!",
+      "categorie": "JS Libraries"
+    },
+    {
+      "name": "Prism JS",
+      "link": "https://prismjs.com/",
+      "description": "Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind. It’s used in millions of websites, including some of those you visit daily",
+      "categorie": "JS Libraries"
     }
   ]
 }
