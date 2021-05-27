@@ -1,0 +1,494 @@
+{
+  "UI/UX Design & Prototyping": [
+    {
+      "name": "Figma",
+      "link": "https://www.figma.com/",
+      "description": "Build better products as a team. Design, prototype, and gather feedback all in one place with Figma",
+      "categorie": "UI/UX Design & Prototyping"
+    },
+    {
+      "name": "Adobe XD",
+      "link": "https://www.adobe.com/products/xd.html",
+      "description": "Adobe XD is a fast & powerful UI/UX design solution for websites, apps more",
+      "categorie": "UI/UX Design & Prototyping"
+    },
+    {
+      "name": "Sketch",
+      "link": "https://www.sketch.com/",
+      "description": "Sketch is used primarily for designing the UI and UX of mobile apps and web.",
+      "categorie": "UI/UX Design & Prototyping"
+    },
+    {
+      "name": "Invision",
+      "link": "https://www.invisionapp.com/",
+      "description": "InVision is the digital product design platform used to make the world’s best customer experiences",
+      "categorie": "UI/UX Design & Prototyping"
+    },
+    {
+      "name": "Framer",
+      "link": "https://www.framer.com/",
+      "description": "It’s interactive design made simple—no code required, browser-based, and free for everyone",
+      "categorie": "UI/UX Design & Prototyping"
+    },
+    {
+      "name": "Wondershare Mockitt",
+      "link": "https://mockitt.wondershare.com/",
+      "description": "Wondershare Mockitt offers rapid design and prototyping with intuitive features, allowing designers to collaborate effectively",
+      "categorie": "UI/UX Design & Prototyping"
+    }
+  ],
+  "Design Systems": [
+    {
+      "name": "Bloo",
+      "link": "https://bloouikit.com/",
+      "description": "All in one open source wireframe kit for quick design and prototyping your idea",
+      "categorie": "Design Systems"
+    },
+    {
+      "name": "Ant Design",
+      "link": "https://ant.design/",
+      "description": "A design system for enterprise-level products. Create an efficient and enjoyable work experience",
+      "categorie": "Design Systems"
+    },
+    {
+      "name": "Chakra UI",
+      "link": "https://chakra-ui.com/",
+      "description": "Simple, Modular and Accessible UI Components for your React Applications. Built with Styled System",
+      "categorie": "Design Systems"
+    },
+    {
+      "name": "Patternfly",
+      "link": "https://www.patternfly.org/v4/",
+      "description": "PatternFly is an open source design system built to drive consistency and unify teams.",
+      "categorie": "Design Systems"
+    },
+    {
+      "name": "Liquid",
+      "link": "https://liquid.merck.design/",
+      "description": "Use Liquid to create and develop digital products to make science faster, treatments more personalized",
+      "categorie": "Design Systems"
+    },
+    {
+      "name": "Backstage",
+      "link": "https://backstage.io/docs/dls/design",
+      "description": "Backstage restores order to your infrastructure and enables your product teams to ship high-quality code quickly",
+      "categorie": "Design Systems"
+    }
+  ],
+  "Illustrations": [
+    {
+      "name": "Humaaans",
+      "link": "https://www.humaaans.com/",
+      "description": "Match illustrations of people with a design library for InVIsion Studio and Sketch",
+      "categorie": "Illustrations"
+    },
+    {
+      "name": "Undraw",
+      "link": "https://undraw.co/illustrations",
+      "description": "The design project with open-source illustrations for any idea you can imagine and create",
+      "categorie": "Illustrations"
+    },
+    {
+      "name": "Smash Illustrations",
+      "link": "https://usesmash.com/",
+      "description": "Changing and overlapping them, you can quickly illustrate an idea of your startup",
+      "categorie": "Illustrations"
+    },
+    {
+      "name": "Iconscout Illustrations",
+      "link": "https://iconscout.com/free-illustrations",
+      "description": "Handpicked unique illustration packs by Iconscout team featuring best illustration packs",
+      "categorie": "Illustrations"
+    },
+    {
+      "name": "Drawkit",
+      "link": "https://www.drawkit.io/",
+      "description": "Free and premium vector SVG illustrations for you to use on your next project, no attribution required!",
+      "categorie": "Illustrations"
+    },
+    {
+      "name": "Blush",
+      "link": "https://blush.design/collections",
+      "description": "Easily create and customize stunning illustrations with collections made by artists across the globe. Try it, it’s kind of fun.",
+      "categorie": "Illustrations"
+    },
+    {
+      "name": "Free Illustrations",
+      "link": "https://freeillustrations.xyz/",
+      "description": "Find free illustrations vectors for your next personal or commercial project with without attribution",
+      "categorie": "Illustrations"
+    },
+    {
+      "name": "Ouch",
+      "link": "https://icons8.com/illustrations",
+      "description": "Free vector illustrations to enhance your project. Ouch helps creators unable to draw overcome the lack of quality graphics",
+      "categorie": "Illustrations"
+    }
+  ],
+  "3D Assets": [
+    {
+      "name": "Toy Faces",
+      "link": "https://amritpaldesign.com/toy-faces",
+      "description": "Toy Faces is a fun diverse library of 3D avatars for your design mockups and commercial use",
+      "categorie": "3D Assets"
+    },
+    {
+      "name": "Characterz",
+      "link": "https://characterz.design/",
+      "description": "The biggest 3D illustration library in the world. 10,000,000+ combinations of 3D characters",
+      "categorie": "3D Assets"
+    },
+    {
+      "name": "Avatarz",
+      "link": "https://www.avatarz.design/",
+      "description": "Lovely library of 3D avatars for your projects, products or marketing purposes",
+      "categorie": "3D Assets"
+    },
+    {
+      "name": "Handz",
+      "link": "https://www.handz.design/",
+      "description": "This is free 3D hands gestures library for any occasion",
+      "categorie": "3D Assets"
+    },
+    {
+      "name": "Iconz",
+      "link": "https://iconz.design/",
+      "description": "Lovely library of 85 3D icons for your amazing products",
+      "categorie": "3D Assets"
+    },
+    {
+      "name": "Iconscout Free 3D's",
+      "link": "https://iconscout.com/free-3ds",
+      "description": "Crowdsourced royalty-free 3Ds for commercial use, and free 3D vectors",
+      "categorie": "3D Assets"
+    }
+  ],
+  "Photos": [
+    {
+      "name": "Pexels",
+      "link": "https://www.pexels.com/",
+      "description": "The best free stock photos & videos shared by talented creators",
+      "categorie": "Photos"
+    },
+    {
+      "name": "Unsplash",
+      "link": "https://unsplash.com/",
+      "description": "Beautiful, free images and photos that you can download and use for any project",
+      "categorie": "Photos"
+    },
+    {
+      "name": "Pixabay",
+      "link": "https://pixabay.com/",
+      "description": "Stunning Free images, videos and music you can use anywhere",
+      "categorie": "Photos"
+    },
+    {
+      "name": "The Noun Project Photos",
+      "link": "https://thenounproject.com/photos/",
+      "description": "An inclusive, diverse collection of art-quality photos. Because representation matters",
+      "categorie": "Photos"
+    }
+  ],
+  "Videos": [
+    {
+      "name": "Videvo",
+      "link": "https://www.videvo.net/",
+      "description": "Videvo offers a large selection of HD video clips, motion graphics and free stock footage",
+      "categorie": "Videos"
+    },
+    {
+      "name": "Coverr",
+      "link": "https://coverr.co/",
+      "description": "Coverr video is a completely free stock footage website that allows you to download and use anywhere.",
+      "categorie": "Videos"
+    },
+    {
+      "name": "Mixkit",
+      "link": "https://mixkit.co/",
+      "description": "Download Free Stock Video Footage, Stock Music. Premiere Pro Templates for your next video editing project",
+      "categorie": "Videos"
+    },
+    {
+      "name": "Pixabay Videos",
+      "link": "https://pixabay.com/videos/",
+      "description": "Stunning free stock video footage & clips shared by our talented community",
+      "categorie": "Videos"
+    }
+  ],
+  "Fonts": [
+    {
+      "name": "Fontshare",
+      "link": "https://www.fontshare.com/",
+      "description": "A free fonts service by itfoundry, making quality fonts accessible to all",
+      "categorie": "Fonts"
+    },
+    {
+      "name": "Google Fonts",
+      "link": "https://fonts.google.com/",
+      "description": "Making the web more beautiful, fast, and open through great typography",
+      "categorie": "Fonts"
+    },
+    {
+      "name": "Fontfabric",
+      "link": "https://www.fontfabric.com/free-fonts/",
+      "description": "Fontfabric is a type foundry built up of a compact team of talented and multidisciplinary designers",
+      "categorie": "Fonts"
+    },
+    {
+      "name": "Fontspark",
+      "link": "https://fontspark.app/",
+      "description": "FontSpark is a simple tool to help designers quickly find the best fonts for their projects",
+      "categorie": "Fonts"
+    },
+    {
+      "name": "Fontspace",
+      "link": "https://www.fontspace.com/",
+      "description": "Free downloads of legally licensed fonts that are perfect for your design projects",
+      "categorie": "Fonts"
+    },
+    {
+      "name": "Dafont",
+      "link": "https://www.dafont.com/",
+      "description": "Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity",
+      "categorie": "Fonts"
+    }
+  ],
+  "Icons": [
+    {
+      "name": "Feather Icons",
+      "link": "https://feathericons.com/",
+      "description": "Feather is a collection of simply beautiful open source icons. Each icon is designed with an emphasis on simplicity",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Icons8",
+      "link": "https://icons8.com/",
+      "description": "Download design elements for free: icons, photos, vector illustrations, and music for your videos",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Ionicons",
+      "link": "https://ionicons.com/",
+      "description": "Ionicons is an open-sourced and MIT licensed icon pack",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Lordicon",
+      "link": "https://lordicon.com/icons",
+      "description": "Powerful animated icon library with 1500+ free and premium animated Lottie animations",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Iconset",
+      "link": "https://iconset.io/icons",
+      "description": "A beautiful and powerful application to collect, customize and manage all your icons",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Jam Icons",
+      "link": "https://jam-icons.com/",
+      "description": "Jam Icons have 890+ handcrafted SVG icons to make your web app awesome",
+      "categorie": "Icons"
+    },
+    {
+      "name": "The Noun Project",
+      "link": "https://thenounproject.com/",
+      "description": "Noun Project features the most diverse collection of icons and stock photos ever",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Font Awesome",
+      "link": "https://fontawesome.com/",
+      "description": "The world’s most popular and easiest to use icon set just got an upgrade",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Bootstrap Icons",
+      "link": "https://icons.getbootstrap.com/",
+      "description": "Bootstrap Icons. Free, high quality, open source icon library with over 1,300 icons",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Material Icons",
+      "link": "https://fonts.google.com/icons",
+      "description": "Material Icons are available in five styles and a range of downloadable sizes and densities",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Flaticon",
+      "link": "https://www.flaticon.com/",
+      "description": "The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats",
+      "categorie": "Icons"
+    },
+    {
+      "name": "Primer",
+      "link": "https://primer.style/octicons/",
+      "description": "Octicons are a set of SVG icons built by GitHub for GitHub. This repository contains several libraries",
+      "categorie": "Icons"
+    }
+  ],
+  "Colors & Gradients": [
+    {
+      "name": "Coolors",
+      "link": "https://coolors.co/",
+      "description": "Generate or browse beautiful color combinations for your designs. Explore thousands of ready-made palettes",
+      "categorie": "Colors & Gradients"
+    },
+    {
+      "name": "Colorsinspo",
+      "link": "https://colorsinspo.com/",
+      "description": "Colorsinspo is all in one resource to find everything about colors with extreme ease",
+      "categorie": "Colors & Gradients"
+    },
+    {
+      "name": "Colorspark",
+      "link": "https://colorspark.app/",
+      "description": "ColorSpark is a simple tool to help designers find unique colors and striking gradient combinations.",
+      "categorie": "Colors & Gradients"
+    },
+    {
+      "name": "Grabient",
+      "link": "https://www.grabient.com/",
+      "description": "Beautiful and simple UI for generating web gradients",
+      "categorie": "Colors & Gradients"
+    },
+    {
+      "name": "Uigradients",
+      "link": "https://uigradients.com/#Disco",
+      "description": "uiGradients is a handpicked collection of beautiful color gradients for designers and developers",
+      "categorie": "Colors & Gradients"
+    },
+    {
+      "name": "Webgradients",
+      "link": "https://webgradients.com/",
+      "description": "Free collection of 180 background gradients that you can use as content backdrops in any part of your website",
+      "categorie": "Colors & Gradients"
+    },
+    {
+      "name": "Egggradients",
+      "link": "https://www.eggradients.com/",
+      "description": "Ready to use gradient background colors. Cool Gradients are prepared according to the latest design trends",
+      "categorie": "Colors & Gradients"
+    },
+    {
+      "name": "Coolhue",
+      "link": "https://webkul.github.io/coolhue/",
+      "description": "Get coolest handpicked gradient colors collection palette for your next project, alternatively copy css",
+      "categorie": "Colors & Gradients"
+    }
+  ],
+  "Mockups": [
+    {
+      "name": "Smartmockups",
+      "link": "https://smartmockups.com/",
+      "description": "Smartmockups enables you to create stunning high-resolution mockups right inside your browser within one interface across multiple devices",
+      "categorie": "Mockups"
+    },
+    {
+      "name": "Shotsnapp",
+      "link": "https://shotsnapp.com/",
+      "description": "Shotsnapp is an easy-to-use device mockup images tool.  It also features beautiful templates along with full customization",
+      "categorie": "Mockups"
+    },
+    {
+      "name": "Mockupworld",
+      "link": "https://www.mockupworld.co/",
+      "description": "The best free mockups from the web: The biggest source for free photo-realistic mockups online!",
+      "categorie": "Mockups"
+    },
+    {
+      "name": "Uispace",
+      "link": "https://uispace.net/",
+      "description": "UI Space gives you high quality hand-crafted PSDs and AI freebies, free fonts, mockups, the latest free icons sets and more",
+      "categorie": "Mockups"
+    },
+    {
+      "name": "Mockupsjar",
+      "link": "https://mockupsjar.com/",
+      "description": "Create realistic previews for free for your websites and mobile apps with MockupsJar: The free mockup generator",
+      "categorie": "Mockups"
+    },
+    {
+      "name": "Magic Mockups",
+      "link": "https://magicmockups.com/",
+      "description": "Make your app/product screenshot more live and interesting and see how it fit in real world environment",
+      "categorie": "Mockups"
+    },
+    {
+      "name": "Graphicburger",
+      "link": "https://graphicburger.com/mock-ups/",
+      "description": "Tasty design resources made with care for each pixel. Free for both personal & commercial use. Have a bite!",
+      "categorie": "Mockups"
+    },
+    {
+      "name": "PSD Repo",
+      "link": "https://psdrepo.com/",
+      "description": "Free PSD & Adobe Xd templates designed by talented creatives who choose to share their work with the rest of the community",
+      "categorie": "Mockups"
+    }
+  ],
+  "Svg Animation": [
+    {
+      "name": "Svgator",
+      "link": "https://www.svgator.com/",
+      "description": "Svgator is an incredibly useful and innovative SVG animation tool that lets you create stunning SVG animations",
+      "categorie": "Svg Animation"
+    },
+    {
+      "name": "Shape Shifter",
+      "link": "https://shapeshifter.design/",
+      "description": "Shape Shifter simplifies the process of creating SVG-based icon animations",
+      "categorie": "Svg Animation"
+    },
+    {
+      "name": "Rive",
+      "link": "https://rive.app/",
+      "description": "Create and ship beautiful animations to any platform",
+      "categorie": "Svg Animation"
+    }
+  ],
+  "CSS Utilities": [
+    {
+      "name": "Haikei",
+      "link": "https://app.haikei.app/",
+      "description": "Haikei is a web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!",
+      "categorie": "CSS Utilities"
+    },
+    {
+      "name": "Shape Divider",
+      "link": "https://www.shapedivider.app/",
+      "description": "Custom Shape Dividers We created this free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. We hope you enjoy this tool",
+      "categorie": "CSS Utilities"
+    },
+    {
+      "name": "Trianglify",
+      "link": "https://trianglify.io/",
+      "description": "Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets",
+      "categorie": "CSS Utilities"
+    },
+    {
+      "name": "Paaatterns",
+      "link": "https://products.ls.graphics/paaatterns/index.html",
+      "description": "Free collection of beautiful patterns for all vector formats. For Sketch, Figma, XD, Illustrator. In png and svg",
+      "categorie": "CSS Utilities"
+    },
+    {
+      "name": "Flaticon Pattern",
+      "link": "https://www.flaticon.com/pattern/",
+      "description": "Create patterns easily with Flaticon. Discover a fun and easy way to make seamless patterns with Pattern Generator. Try it now Learn more. Customizable",
+      "categorie": "CSS Utilities"
+    },
+    {
+      "name": "SVG Backgrounds",
+      "link": "https://www.svgbackgrounds.com/",
+      "description": "Customize and apply backgrounds fast. SVGs enable full-screen hi-res visuals with a file-size near 5KB and are well-supported by all modern browsers.What's not to love?",
+      "categorie": "CSS Utilities"
+    },
+    {
+      "name": "Pattern-css",
+      "link": "https://bansal.io/pattern-css",
+      "description": "CSS only library to fill your empty background with beautiful patterns",
+      "categorie": "CSS Utilities"
+    }
+  ]
+}
