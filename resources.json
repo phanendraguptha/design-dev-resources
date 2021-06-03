@@ -534,5 +534,49 @@
       "description": "Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind. It’s used in millions of websites, including some of those you visit daily",
       "categorie": "JS Libraries"
     }
+  ],
+  "Miscellaneous": [
+    {
+      "name": "I Hate Regex",
+      "link": "https://ihateregex.io/",
+      "description": "I Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand them",
+      "categorie": "Miscellaneous"
+    },
+    {
+      "name": "Toptal Gitignore",
+      "link": "https://www.toptal.com/developers/gitignore",
+      "description": "Create useful .gitignore files for your project by selecting from 521 Operating System, IDE, and Programming Language .gitignore templates",
+      "categorie": "Miscellaneous"
+    },
+    {
+      "name": "Can I Use",
+      "link": "https://caniuse.com/",
+      "description": "Check cross-browser compatibility of frontend technologies",
+      "categorie": "Miscellaneous"
+    },
+    {
+      "name": "Readme",
+      "link": "https://readme.so/",
+      "description": "Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories",
+      "categorie": "Miscellaneous"
+    },
+    {
+      "name": "Bundlephobia",
+      "link": "https://bundlephobia.com/",
+      "description": "Bundlephobia helps you find the performance impact of adding a npm package to your front-end bundle",
+      "categorie": "Miscellaneous"
+    },
+    {
+      "name": "Devdocs",
+      "link": "https://devdocs.io/",
+      "description": "DevDocs combines multiple API documentations in a fast, organized, and searchable interface",
+      "categorie": "Miscellaneous"
+    },
+    {
+      "name": "Keycode",
+      "link": "https://keycode.info/",
+      "description": "Keycode testing tool - which keys map to which keycodes?",
+      "categorie": "Miscellaneous"
+    }
   ]
 }
