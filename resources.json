@@ -279,6 +279,12 @@
       "categorie": "Icons"
     },
     {
+      "name": "Heroicons",
+      "link": "https://heroicons.com/",
+      "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS",
+      "categorie": "Icons"
+    },
+    {
       "name": "Lordicon",
       "link": "https://lordicon.com/icons",
       "description": "Powerful animated icon library with 1500+ free and premium animated Lottie animations",
@@ -473,9 +479,9 @@
       "categorie": "CSS Utilities"
     },
     {
-      "name": "CSSeffects",
-      "link": "https://emilkowalski.github.io/css-effects-snippets/",
-      "description": "A collection of CSS effects. Click on the animation to copy the css and use it anywhere",
+      "name": "UI Snippets",
+      "link": "https://ui-snippets.dev/",
+      "description": "A collection of CSS effects. Right click the animation to copy the styling",
       "categorie": "CSS Utilities"
     },
     {
