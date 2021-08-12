@@ -129,6 +129,12 @@
       "link": "https://icons8.com/illustrations",
       "description": "Free vector illustrations to enhance your project. Ouch helps creators unable to draw overcome the lack of quality graphics",
       "categorie": "Illustrations"
+    },
+    {
+      "name": "Storyset",
+      "link": "https://storyset.com/",
+      "description": "Awesome free customizable illustrations for your next project",
+      "categorie": "Illustrations"
     }
   ],
   "3D Assets": [
@@ -163,9 +169,21 @@
       "categorie": "3D Assets"
     },
     {
+      "name": "Khagwal 3D",
+      "link": "https://3d.khagwal.co/",
+      "description": "Free 3D illustration pack for web & mobile app designers",
+      "categorie": "3D Assets"
+    },
+    {
       "name": "Iconscout Free 3D's",
       "link": "https://iconscout.com/free-3ds",
       "description": "Crowdsourced royalty-free 3Ds for commercial use, and free 3D vectors",
+      "categorie": "3D Assets"
+    },
+    {
+      "name": "Clay Mockups",
+      "link": "https://h4academy.gumroad.com/l/claymockups",
+      "description": "iPhone 12 Clay Mockups for Sketch and Figma",
       "categorie": "3D Assets"
     }
   ],
@@ -482,6 +500,18 @@
       "name": "UI Snippets",
       "link": "https://ui-snippets.dev/",
       "description": "A collection of CSS effects. Right click the animation to copy the styling",
+      "categorie": "CSS Utilities"
+    },
+    {
+      "name": "Glass UI",
+      "link": "https://ui.glass/generator/",
+      "description": "Get started with this free CSS generator based on the glassmorphism design specifications",
+      "categorie": "CSS Utilities"
+    },
+    {
+      "name": "CSS Reference",
+      "link": "https://cssreference.io/",
+      "description": "It is a free visual guide to CSS.  It features the most popular properties, and explains them with illustrated and animated examples",
       "categorie": "CSS Utilities"
     },
     {
