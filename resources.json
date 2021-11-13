@@ -135,6 +135,12 @@
       "link": "https://storyset.com/",
       "description": "Awesome free customizable illustrations for your next project",
       "categorie": "Illustrations"
+    },
+    {
+      "name": "Doodle Ipsum",
+      "link": "https://doodleipsum.com/",
+      "description": "The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools.",
+      "categorie": "Illustrations"
     }
   ],
   "3D Assets": [
@@ -184,6 +190,12 @@
       "name": "Clay Mockups",
       "link": "https://h4academy.gumroad.com/l/claymockups",
       "description": "iPhone 12 Clay Mockups for Sketch and Figma",
+      "categorie": "3D Assets"
+    },
+    {
+      "name": "3D Icons",
+      "link": "https://3dicons.co/",
+      "description": "Beautifully crafted open source 3D icons",
       "categorie": "3D Assets"
     }
   ],
