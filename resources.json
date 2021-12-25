@@ -63,6 +63,12 @@
       "categorie": "Design Systems"
     },
     {
+      "name": "Mantine",
+      "link": "https://mantine.dev/",
+      "description": "A fully featured React components library (Build fully functional accessible web applications faster than ever)",
+      "categorie": "Design Systems"
+    },
+    {
       "name": "Liquid",
       "link": "https://liquid.merck.design/",
       "description": "Use Liquid to create and develop digital products to make science faster, treatments more personalized",
@@ -630,6 +636,12 @@
       "name": "Keycode",
       "link": "https://keycode.info/",
       "description": "Keycode testing tool - which keys map to which keycodes?",
+      "categorie": "Miscellaneous"
+    },
+    {
+      "name": "HTTP statuses",
+      "link": "https://httpstatuses.com/",
+      "description": "httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions all in one place",
       "categorie": "Miscellaneous"
     }
   ]
